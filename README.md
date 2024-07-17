@@ -5,7 +5,7 @@ In this project, we open-source the source code of our FairLight approach.
 
 On Git Hub, we will introduce how to reproduce the results of our experiments in the paper.
 
-For details of our method, please see our [original paper](https://ieeexplore.ieee.org/abstract/document/9969874) at the 2021 58th ACM/IEEE Design Automation Conference (DAC).
+For details of our method, please see our [original paper](https://ieeexplore.ieee.org/abstract/document/9969874) at IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD).
 
 Welcome to cite our paper!
 
@@ -13,7 +13,7 @@ Welcome to cite our paper!
 @article{ye2023fairlight,
   title={FairLight: Fairness-Aware Autonomous Traffic Signal Control With Hierarchical Action Space},
   author={Ye, Yutong and Ding, Jiepin and Wang, Ting and Zhou, Junlong and Wei, Xian and Chen, Mingsong},
-  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)},
   year={2023},
   volume={42},
   number={8},
